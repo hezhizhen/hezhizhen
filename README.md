@@ -1,4 +1,7 @@
-<img width="250" src="https://www.everyonepiano.com/pianomusic/005/0004218/0004218-w-b-1.png"/><img width="250" src="https://www.everyonepiano.com/pianomusic/005/0004218/0004218-w-b-2.png"/><img width="250" src="https://www.everyonepiano.com/pianomusic/005/0004218/0004218-w-b-3.png"/>
+#### :bar_chart: Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **hezhizhen/hezhizhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
