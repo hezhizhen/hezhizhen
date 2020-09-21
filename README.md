@@ -1,4 +1,4 @@
-<img width="300" src="https://www.everyonepiano.com/pianomusic/005/0004218/0004218-w-b-1.png"/><img width="300" src="https://www.everyonepiano.com/pianomusic/005/0004218/0004218-w-b-2.png"/><img width="300" src="https://www.everyonepiano.com/pianomusic/005/0004218/0004218-w-b-3.png"/>
+<img width="200" src="https://www.everyonepiano.com/pianomusic/005/0004218/0004218-w-b-1.png"/><img width="200" src="https://www.everyonepiano.com/pianomusic/005/0004218/0004218-w-b-2.png"/><img width="200" src="https://www.everyonepiano.com/pianomusic/005/0004218/0004218-w-b-3.png"/>
 
 <!--
 **hezhizhen/hezhizhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
