@@ -2,13 +2,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 September, 2020 - 21 September, 2020
+Week: 15 September, 2020 - 22 September, 2020
 
-Markdown   12 hrs 40 mins  █████████████▓░░░░░░░░░░░   54.17 % 
-Go         7 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   32.33 % 
-Other      1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-YAML       36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Makefile   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Markdown   11 hrs 27 mins  █████████████▓░░░░░░░░░░░   54.43 % 
+Go         6 hrs 21 mins   ███████▓░░░░░░░░░░░░░░░░░   30.18 % 
+Other      1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+YAML       42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Makefile   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 ```
 <!--END_SECTION:waka-->
 
