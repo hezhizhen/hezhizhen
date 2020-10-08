@@ -2,13 +2,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2020 - 06 October, 2020
+Week: 30 September, 2020 - 07 October, 2020
 
-Markdown   4 hrs 11 mins   ████████████████▒░░░░░░░░   65.11 % 
-Go         1 hr 19 mins    █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-Other      21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-YAML       19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JSON       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Markdown   3 hrs 34 mins   ███████████████████████░░   92.57 % 
+Other      10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Fish       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 <!--END_SECTION:waka-->
 
