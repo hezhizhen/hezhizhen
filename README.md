@@ -2,13 +2,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 October, 2020 - 13 October, 2020
+Week: 07 October, 2020 - 14 October, 2020
 
-Go         5 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   32.59 % 
-Fish       2 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Markdown   2 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Other      1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-VimL       1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Go         5 hrs 59 mins   ████████░░░░░░░░░░░░░░░░░   32.38 % 
+Fish       2 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Markdown   2 hrs 40 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+VimL       1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Other      1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 ```
 <!--END_SECTION:waka-->
 
