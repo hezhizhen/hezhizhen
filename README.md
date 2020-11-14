@@ -2,13 +2,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2020 - 12 November, 2020
+Week: 06 November, 2020 - 13 November, 2020
 
-Markdown   3 hrs 2 mins    ███████████░░░░░░░░░░░░░░   44.61 % 
-Go         2 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   35.01 % 
-Other      32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Makefile   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-VimL       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Go         2 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   38.77 % 
+Markdown   2 hrs 31 mins   █████████▓░░░░░░░░░░░░░░░   38.52 % 
+Other      42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Makefile   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+VimL       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
 <!--END_SECTION:waka-->
 
