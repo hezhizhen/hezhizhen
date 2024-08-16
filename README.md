@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/9053a32c-e602-40ae-96b2-be7c43d90c66.svg)](https://wakatime.com/@9053a32c-e602-40ae-96b2-be7c43d90c66)
+
 <!--
 **hezhizhen/hezhizhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
